@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cheezery</string>
+    <string name="Welcome">Welcome to The Cheezery</string>
+    <string name="Descripcion">Home of the mejor aplicacion of the world calada by Humans</string>
+    <string name="get_started">Fierro</string>
+
+    <!--fonts families-->
+    <string name="light">sans-serif-light</string>
+    <string name="condensed">sans-serif-condensed</string>
+    <string name="thin">sans-serif-thin</string>
+    <string name="medium">sans-serif-medium</string>}
+    <string name="regular">sans-serif</string>
+
+</resources>
